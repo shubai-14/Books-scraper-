@@ -1,2 +1,2 @@
-import requests
-from bs4 import BeautifulSoup
+requests
+beautifulsoup4
